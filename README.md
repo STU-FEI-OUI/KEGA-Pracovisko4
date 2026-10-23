@@ -9,7 +9,7 @@ Laboratórium budú využívať študenti 3. ročníka bakalárskeho štúdia a 
 inžinierskeho štúdia na vybraných predmetoch a študenti bakalárskych, diplomových, individuálnych
 a tímových prác, ale aj doktorandi. Plánujeme nasledovné pracoviská:
 
-## Pracovisko 5 - Spracovanie zvuku a iných signálov na detekciu anomálií metódami strojového učenia
+## Pracovisko 4 - Detekcia
 Počítačová zostava, kvalitný mikrofón, Nvidia Jetson (Edge zariadenie), priemyselný
 riadiaci systém. Cieľom pracoviska bude spracovanie zvuku a odoslanie výsledku spracovania do
 priemyselného riadiaceho systému s cieľom učenia kvality.
